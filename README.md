@@ -1,4 +1,4 @@
-# Home-Styles-by-Price-
+# Home-Styles-by-Price
 # Bar Chart Comparison of Home Styles by Price 
 
 labs(title = "Bar Chart Comparison of Home Styles by Price",
